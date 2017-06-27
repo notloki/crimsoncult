@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "normal": [
+      { "model": "crimsoncult:ancient_stone" },
+      { "model": "crimsoncult:ancient_stone_mirrored" },
+      { "model": "crimsoncult:ancient_stone", "y": 180 },
+      { "model": "crimsoncult:ancient_stone_mirrored", "y": 180 }
+    ]
+  }
+}
